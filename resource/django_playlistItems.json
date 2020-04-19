@@ -1,0 +1,775 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aYZTcT5fYJ8guo-3tmHEBOGzlpo\"",
+ "pageInfo": {
+  "totalResults": 17,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hA_Au6-7fWiqMx7zVNaGcKd6I7w\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:41:19.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started",
+    "description": "In this Python Django Tutorial, we will be learning how to get started using the Django framework. We will install the necessary packages and get a basic application running in our browser. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\nFlask Tutorials to create this same application:\nhttps://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH\n\nPython Installation:\nhttps://youtu.be/YYXdXT2l-Gg\n\nVirtual Environment Setup:\nhttps://youtu.be/N5vscPTWKOk\nhttps://youtu.be/cY2NXB_Tqq0\n\nSublime Text Setup:\nhttps://youtu.be/xFciV6Ew5r4\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UmljXZIypDc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UmljXZIypDc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UmljXZIypDc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UmljXZIypDc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UmljXZIypDc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UmljXZIypDc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nFfrR4WblZto7MeWmn2XlYUeMLo\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:44:05.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes",
+    "description": "In this Python Django Tutorial, we will be creating a blog application within our Django project. We will also learn how to create URL patterns that are handled by our application views. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a48xeeo5Vnk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a48xeeo5Vnk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a48xeeo5Vnk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/a48xeeo5Vnk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/a48xeeo5Vnk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "a48xeeo5Vnk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/98KmafRNtMcwwXr94BwEhemZC4Q\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:41:46.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 3 - Templates",
+    "description": "In this Python Django Tutorial, we will be learning how to use templates to return more complex HTML to the browser. We'll also see how we can pass variables to our templates as context. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\nSnippets:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog/snippets\n\nBootstrap Starter Template:\nhttps://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qDwdMDQ8oX4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qDwdMDQ8oX4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qDwdMDQ8oX4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qDwdMDQ8oX4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qDwdMDQ8oX4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qDwdMDQ8oX4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eVCFe_IXsrCm_Iqpg1kmgYOdTWQ\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:41:51.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 4 - Admin Page",
+    "description": "In this Python Django Tutorial, we will be learning how to access the Django Admin Page for our application. The Administration Page is a great way to see what data is currently in our application, and also gives us a nice GUI for creating or modifying that data. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1PkNiYlkkjo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1PkNiYlkkjo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1PkNiYlkkjo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1PkNiYlkkjo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1PkNiYlkkjo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1PkNiYlkkjo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nT8-swbiqzP1AYUXwzU5V5fesa0\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:42:06.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 5 - Database and Migrations",
+    "description": "In this Python Django Tutorial, we will be creating database tables for our application using Django models. We will also see how we can use the Django ORM to query the database and filter through results. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\nDjango Date Filters:\nhttps://docs.djangoproject.com/en/2.0/ref/templates/builtins/#date\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aHC3uTkT9r8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aHC3uTkT9r8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aHC3uTkT9r8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aHC3uTkT9r8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aHC3uTkT9r8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aHC3uTkT9r8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jmlq7FD-BHg3IIpOxnHvpkRhtV8\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:42:11.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 6 - User Registration",
+    "description": "In this Python Django Tutorial, we will be learning how to use forms and validate user input by creating a user registration page. We will also learn how to install and use Crispy Form so that our forms match the modern style of our application. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q4jPR-M0TAQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q4jPR-M0TAQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q4jPR-M0TAQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q4jPR-M0TAQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/q4jPR-M0TAQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q4jPR-M0TAQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FLItJsxVTgFxeZx0khJxC_Yavrs\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:42:15.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 7 - Login and Logout System",
+    "description": "In this Python Django Tutorial, we will be learning how to create an authentication system for our application so that users can login and logout. We are also going to see how we can restrict certain pages so that users must be logged-in in order to access the page. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3aVqWaLjqS4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3aVqWaLjqS4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3aVqWaLjqS4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3aVqWaLjqS4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3aVqWaLjqS4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3aVqWaLjqS4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/72kwW7OsYPCKlsmB5rf2wdTMEvU\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:42:20.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 8 - User Profile and Picture",
+    "description": "In this Python Django Tutorial, we will be creating a user profile that extends the built-in Django User model. We will then use this user profile to store profile pictures for each user. We will also be learning how to set the MEDIA_ROOT, MEDIA_URL, and also make our static files accessible through our URL patterns. Finally, we will create a receiver function for a Django signal that will make sure our profiles are created when a user first registers. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\nDjango Static File Docs:\nhttps://docs.djangoproject.com/en/2.1/howto/static-files/#serving-files-uploaded-by-a-user-during-development\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FdVuKt_iuSI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FdVuKt_iuSI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FdVuKt_iuSI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FdVuKt_iuSI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FdVuKt_iuSI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FdVuKt_iuSI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PFu7soXUmw38TPDMJMYpxnj1XWM\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:42:37.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 9 - Update User Profile",
+    "description": "In this Python Django Tutorial, we will be finishing our user profile page. The final page will allow users to update their information and also add a new profile picture. We will also learn how to resize this image when it is uploaded to save space on our web server. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CQ90L5jfldw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CQ90L5jfldw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CQ90L5jfldw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CQ90L5jfldw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CQ90L5jfldw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CQ90L5jfldw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tyn6S3ZBFYvRspBS_snPJgSlv1A\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:42:50.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts",
+    "description": "In this Python Django Tutorial, we will be learning how to use class-based views in order to create, update, and delete posts. These class-based views are very convenient once we get used to using them properly. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-s7e_Fy6NRU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-s7e_Fy6NRU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-s7e_Fy6NRU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-s7e_Fy6NRU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-s7e_Fy6NRU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-s7e_Fy6NRU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/O9rVHlaeRTfgjebdROhe4eTB-F0\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:43:09.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 11 - Pagination",
+    "description": "In this Python Django Tutorial, we will be learning how to use pagination so that we aren't pulling down too many posts at once. We will also learn how to create a page for posts created by a specific user. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\nPosts.json file:\nhttps://raw.githubusercontent.com/CoreyMSchafer/code_snippets/master/Django_Blog/snippets/posts.json\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/acOktTcTVEQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/acOktTcTVEQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/acOktTcTVEQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/acOktTcTVEQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/acOktTcTVEQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "acOktTcTVEQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/O5rKKWCkQVQ_gGZ0Z-funBYl5pc\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2018-08-31T17:43:16.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 12 - Email and Password Reset",
+    "description": "In this Python Django Tutorial, we will be learning how we can use email to send a password reset link to a user so that the user can reset their password. Users will be able to fill out a form with their email and have a unique token sent to them, and if their token is verified then they will be able to create a new password. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\nLocalhost Email Setup:\nhttps://docs.djangoproject.com/en/2.1/topics/email/#configuring-email-for-development\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-tyBEsHSv7w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-tyBEsHSv7w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-tyBEsHSv7w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-tyBEsHSv7w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-tyBEsHSv7w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-tyBEsHSv7w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZXoaOT5wEjbtpzT1r9VfzTILRZ4\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2018-12-13T18:45:14.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server",
+    "description": "In this Python Django Tutorial, we will be learning how to deploy our application to a Linux Server from scratch using Linode.\n\nIf you would like $20 of free credit towards a Linode account, then you can use my link here to sign up: \nhttps://linode.com/coreyschafer\n\nWe will be covering the entire deployment of a Django application. This includes spinning up a new Linux Server and tightening its security with SSH keys and firewalls. Then we will install Apache and Mod_WSGI so that we can get our Django App running. Let's get started...\n\nTo skip the server setup, jump to 29:11\n\nHow to Run Linux/Bash on Windows: https://youtu.be/xzgwDbe7foQ\n\nSSH Key-Based Authentication Tutorial: https://youtu.be/vpk_1gldOAE\n\nSSH Keys on Windows: https://www.linode.com/docs/security/authentication/use-public-key-authentication-with-ssh/#windows\n\nApache config used in this video: https://github.com/CoreyMSchafer/code_snippets/blob/master/Django_Blog/snippets/django_project.conf\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Sa_kQheCnds/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Sa_kQheCnds/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Sa_kQheCnds/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Sa_kQheCnds/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Sa_kQheCnds/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Sa_kQheCnds"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IwW2mhmnrRXLlpZO3EHIuOohW7c\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-01-17T06:56:50.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: How to Use a Custom Domain Name for Our Application",
+    "description": "In this Python Django Tutorial, we will be learning how to set up a custom domain name for our application. We will use NameCheap as our domain registrar and Linode to host our server. Let's get started...\n\nIf you would like $20 of free credit towards a Linode account, then you can use my link here to sign up: \nhttps://linode.com/coreyschafer\n\nBuy a domain at NameCheap:\nhttps://namecheap.pxf.io/c/1358746/408749/5618\n\nLinode DNS Documentation:\nhttps://linode.com/docs/platform/manager/dns-manager-new-manager/\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/D2lwk1Ukgz0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/D2lwk1Ukgz0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/D2lwk1Ukgz0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/D2lwk1Ukgz0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/D2lwk1Ukgz0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "D2lwk1Ukgz0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NJUOwCj1yu0bt3kWXcuZRw9f3Aw\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-01-24T18:23:05.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt",
+    "description": "In this Python Django Tutorial, we will be learning how to enable HTTPS on our web server with a free SSL/TLS certificate using a service called \"Let's Encrypt\". Let’s Encrypt is a Certificate Authority that lets anyone obtain, renew, and manage certificates for their site. They're a non-profit and provide all of this for free, and it's easy to get running on our server, so let's go ahead and get started...\n\nI am using Linode to host my site:\nhttp://bit.ly/cms-linode\n\nApache/Ubuntu Certbot Commands:\nhttp://bit.ly/apache-certbot\n\nHow to use Crontab and Cron Jobs:\nhttps://youtu.be/QZJ1drMQz1A\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NhidVhNHfeU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NhidVhNHfeU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NhidVhNHfeU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NhidVhNHfeU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NhidVhNHfeU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NhidVhNHfeU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VMHmBph5Y5ZvzbVSntmvLBHrUuk\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-02-18T20:07:14.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads",
+    "description": "In this Python Django Tutorial, we will be learning how to set up AWS S3 so that we can host our media files from that service instead of our local filesystem. AWS S3 is very affordable and will also allow our application to scale much more than if our files lived on our local filesystem. Let's get started...\n\nThe code for this series can be found at:\nhttps://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog\n\nS3 CORS Config - http://bit.ly/cors-config\n\nEnvironment Variables (Windows):\nhttps://youtu.be/IolxqkL7cD8\n\nEnvironment Variables (Mac and Linux):\nhttps://youtu.be/5iWhQWVXosU\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kt3ZtW9MXhw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kt3ZtW9MXhw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kt3ZtW9MXhw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kt3ZtW9MXhw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kt3ZtW9MXhw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kt3ZtW9MXhw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zwuaaASGrMHb4QKJmW-vSshpdmE\"",
+   "id": "UEwtb3NpRTgwVGVUdG9RQ0taMDNUVTVmTmZ4MlVZNlU0cC41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-02-18T20:45:37.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku",
+    "description": "In this Python Django Tutorial, we will be learning how to deploy our application to Heroku. Heroku is a platform that abstracts away a lot of the low-level system administration and allows us to easily deploy, update, and rollback changes for our application. Let's get started...\n\nGit Install - https://git-scm.com/downloads\nHeroku CLI Install - http://bit.ly/heroku-cli\nPostgres Install - http://bit.ly/heroku-postgres\n\nMy requirements.txt file - http://bit.ly/django-req-txt-file\n\nGit Command-Line Fundamentals - https://youtu.be/HVsySz-h9r4\nGitignore file (Python) - http://bit.ly/py-ignore\n\nEnvironment Variables (Windows) - https://youtu.be/IolxqkL7cD8\nEnvironment Variables (Mac and Linux) - https://youtu.be/5iWhQWVXosU\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Python #Django",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6DI_7Zja8Zc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6DI_7Zja8Zc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6DI_7Zja8Zc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6DI_7Zja8Zc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6DI_7Zja8Zc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6DI_7Zja8Zc"
+    }
+   }
+  }
+ ]
+}

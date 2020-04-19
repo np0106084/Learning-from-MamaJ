@@ -1,0 +1,280 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d7APVip1COQn4JBu9978MRsEews\"",
+ "pageInfo": {
+  "totalResults": 6,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z7VBzF0Anrzf-GKoB7POKQlQxqk\"",
+   "id": "UEwtb3NpRTgwVGVUdVJVZmpSZTU0RWVhMTctWWZuT09BeC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2015-08-03T16:30:11.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Git Tutorial for Beginners: Command-Line Fundamentals",
+    "description": "Git is the most popular version control system out there and for good reason. In this video, we'll go over the basics of what git is and how to use it within the command-line. There are several GUI tools out there to help you get started with git, but it can be extremely beneficial to learn git from the command-line as early as possible.\n\nSome of the images used in this video are from the \"Pro Git\" book. These are licensed under creative-commons. You can find the book at:\nhttps://git-scm.com/book/en/v2\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Git",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HVsySz-h9r4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HVsySz-h9r4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HVsySz-h9r4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HVsySz-h9r4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HVsySz-h9r4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HVsySz-h9r4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CQnl6kZdqt4dafAbDeLbQ2xTNXY\"",
+   "id": "UEwtb3NpRTgwVGVUdVJVZmpSZTU0RWVhMTctWWZuT09BeC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2015-10-26T15:30:09.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits",
+    "description": "In this video we will look at some common mistakes in Git and how we can fix these mistakes. Specifically we will cover how to discard changes since your last commit, amending commits, cherry-picking hashes, resetting to a specific commit, and reverting to a specific commit.\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Git",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FdZecVxzJbk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FdZecVxzJbk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FdZecVxzJbk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FdZecVxzJbk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FdZecVxzJbk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FdZecVxzJbk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MKGN_7Q2GV6FIPb95o1tnRq3998\"",
+   "id": "UEwtb3NpRTgwVGVUdVJVZmpSZTU0RWVhMTctWWZuT09BeC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2015-04-29T16:32:41.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Git Tutorial: Using the Stash Command",
+    "description": "In this video, we will take a look at the git stash command. Git stash is extremely useful when you have some changes that you want to save but aren't ready to make a commit.\n\nThere are many different scenarios where knowing how to use stash properly will make your life with git much easier.\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Git",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KLEDKgMmbBI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KLEDKgMmbBI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KLEDKgMmbBI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KLEDKgMmbBI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/KLEDKgMmbBI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KLEDKgMmbBI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Pexbh8nf4JKYtbuRVn2TIi-sg4o\"",
+   "id": "UEwtb3NpRTgwVGVUdVJVZmpSZTU0RWVhMTctWWZuT09BeC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2015-04-29T16:32:41.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Git Tutorial: Diff and Merge Tools",
+    "description": "In this video, we will learn how to setup a git difftool and a git mergetool. These tools provide a nice GUI interface for viewing and modifying diffs and merges.\n\nThe tool we will be using in this tutorial is called DiffMerge:\nhttps://sourcegear.com/diffmerge/\n\nIf you struggle reading or comparing diffs and merges within your terminal, then this video is for you. A good GUI tool can definitely make your life easier.\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Git",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iCGrKFH2oeo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iCGrKFH2oeo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iCGrKFH2oeo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iCGrKFH2oeo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iCGrKFH2oeo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iCGrKFH2oeo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b8OOe6V2oNRCfJoLB71agNsuRQo\"",
+   "id": "UEwtb3NpRTgwVGVUdVJVZmpSZTU0RWVhMTctWWZuT09BeC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2015-04-29T16:32:41.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Git Tutorial: Change DiffMerge Font-Size on Mac OSX",
+    "description": "In a previous video, we learned how to use DiffMerge as a git difftool and git mergetool. As I was creating that video, I noticed a bug in the program that crashed DiffMerge when attempting to change the font-size. This bug has not yet been fixed by DiffMerge; however, there is a workaround.\n\nAll we need to do in open the preferences from the terminal and change the font-size manually.\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Git",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kjBA2WISteM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kjBA2WISteM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kjBA2WISteM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kjBA2WISteM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kjBA2WISteM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kjBA2WISteM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HToLrYrHZJ-1w54MKL0PAAqY60Y\"",
+   "id": "UEwtb3NpRTgwVGVUdVJVZmpSZTU0RWVhMTctWWZuT09BeC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2015-09-22T15:00:18.000Z",
+    "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+    "title": "Git Tutorial: Difference between \"add -A\", \"add -u\", \"add .\", and \"add *\"",
+    "description": "The \"git add\" command is fundamental to using Git. It is how we add files to the staging area to be committed. But which files get added? Well, that is up to us. In this video, we will look at the different options for using the add command and how we can use it to add the exact files we would like to the staging area.\n\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/\n\n#Git",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tcd4txbTtAY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tcd4txbTtAY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tcd4txbTtAY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tcd4txbTtAY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tcd4txbTtAY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Corey Schafer",
+    "playlistId": "PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tcd4txbTtAY"
+    }
+   }
+  }
+ ]
+}
